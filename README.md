@@ -50,16 +50,16 @@ The data model follows a **dimensional structure**:
 ---
 
 ### 🚀 Key Insights
-- Sales increased by **18% YoY**, with strong Q4 growth.  
-- Top 10 products generate **62% of total revenue**.  
-- Delivery time improved by **1.3 days** on average.  
+- Sales increased by **94% YoY**, with strong Q4 growth.  
+- Top 10 products generate **28.83%% of total revenue**.  
+- Delivery time improved by **5 days** on average.  
 - Region “North-East” demonstrates the highest delivery efficiency.
 
 ---
 
 ### 📂 Repository Contents
-- `Sales_Dashboard.pbix` → Power BI report file  
-- `Sales_Data_Model.xlsx` → Source dataset  
+- `Sales_Analytics.pbix` → Power BI report file  
+- `3. Sales.xlsx` → Source dataset  
 - `README.md` → Documentation  
 
 ---
