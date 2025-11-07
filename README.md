@@ -66,6 +66,6 @@ The data model follows a **dimensional structure**:
 
 ### 👨‍💻 Author
 **Mohamed Mayhoub**  
-Software & Data Engineer | Power BI Developer  
+Data Analyst | Power BI Developer  
 📧 [momaihoub2692002@gmail.com]  
 🌐 [inkedin.com/in/engmomaihoub/]
